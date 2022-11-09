@@ -45,3 +45,5 @@ def g(*args):
 print('the local Variable is defined locally , and it will be deleted as soon as we get out of the function or loop')
 print('the global Variable is defined globally (within the class) , it can be edited from any sub class , loop or function in the class ( if it is not const)')
 
+
+
