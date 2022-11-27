@@ -29,6 +29,9 @@ print('all')
 
 '''7- what is the differences between if , elif'''
 print ('elif will occur if (if) condition is false')
+#or in one condition
+#- one if
+#- many elif
 
 '''8 - What is the differences between elif , else''')
 print('else have no condition ,and it will happened if (if) and all the (elif) false')
@@ -41,10 +44,8 @@ print ('NO we cannot')
 
 '''11- write simple ternary operator'''
 
-if iAm = 'the Best':
-    print('Danny is the Best ')
-else:
-    print ('Danny will be the Best :) ')
+iAm = 'the Best'
+print ('Danny is the Best ') if iAm=='the Best' else print('Danny will be the Best :) ')
 
 '''12 - in elif , Python will check all the conditions no matter what'''
 print ('NO , Python will check the condition in order they written ,and it will break the check operation ,when it finde a TRUE condition')

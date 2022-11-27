@@ -9,7 +9,7 @@ print(" is not equal , to compare between tow variabels")
 
 ''' Operator Precedence'''
 
-print("the order of the Operator : **-> *,/ -> +,- ")
+print("the order of the Operator :()--> ** -> *,/ -> +,- ")
 
 '''variable with a value'''
 
